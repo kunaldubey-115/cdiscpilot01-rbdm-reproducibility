@@ -39,6 +39,7 @@ scripts/clinical/input/        Original rule template
 scripts/publication/           Original publication-reporting code
 reporting_revision/            Separate reporting-only revision
 frozen_source_manifest/        Source provenance and verification metadata
+results/                       Aggregate results and evidence index
 
 SOURCE DATA AND VERIFICATION
 
@@ -95,8 +96,10 @@ at their expected paths. The original reporting materials may differ from
 later editorial versions of the manuscript.
 
 The original Publication_Evidence_Snapshot.json and publication results
-workbook are retained separately and are not currently included in the public
-repository. Software versions recorded in the snapshot describe the reporting
+workbook are retained separately and are not included in the public repository.
+The results/ directory provides a separate, post-freeze aggregate reporting
+extract of the saved outputs, with no source data, subject-level examples or
+mutation identifiers. See results/README.md for definitions and limitations. Software versions recorded in the snapshot describe the reporting
 environment; they do not independently establish the original clinical
 execution environment. The original scoped_results.json and raw flag and
 attribution ledgers are not included in this repository. Their absence limits

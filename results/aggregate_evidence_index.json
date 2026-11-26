@@ -1,0 +1,26 @@
+{
+  "artifact": "Public aggregate evidence index; post-freeze reporting extract, not the original snapshot",
+  "original_snapshot_sha256": "e4ead91bf7eab95b9467c6317fcdb55953a57673d131f151dd4e18c463ac1d6d",
+  "original_workbook_sha256": "c908306fbc5e0e0725b4c6f8f5bf20fea3131bba6872ab134b4f049a40afa638",
+  "original_code_zip_sha256": "b4086240474173da5eab7f4adaadc7855eac5d9e5583a755a4f71d86ad239570",
+  "frozen_policy_sha256": "a8f92a1aa9a0865c5eb55367bff4fb46f0f5a5c4be4cd77b557c5e5aa55ea700",
+  "original_scoped_results_sha256": "278ba66c4bdcd4a101bdf34e540883ceae42ea27825bfc2c9a143e81a58abce4",
+  "source_archive_sha256": "ded48ed9207df31d55582686f787fdf9b4ac18399387c316f01eb183226ba242",
+  "original_snapshot_created_utc": "2026-11-15T20:46:31.360060+00:00",
+  "reporting_environment": {
+    "python": "3.13.11 (main, Dec  5 2025, 16:06:33) [GCC 15.2.0]",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scipy": "1.18.1",
+    "statsmodels": "0.15.0",
+    "openpyxl": "3.1.5",
+    "pymupdf": "2.1"
+  },
+  "original_execution_environment_verified": false,
+  "frozen_code_commit": "401f4bf9865e8327b5a1b9ce3bf2c91c88e3278a",
+  "source_manifest_commit": "ac7f1904272ca3280e1016df8ec88ffed99f07e2",
+  "source_files_verified": 33,
+  "clinical_scripts_verified": 44,
+  "mutation_recovery_rows_reviewed": 1280,
+  "original_experiment_rerun": false
+}

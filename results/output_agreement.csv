@@ -1,0 +1,8 @@
+summary_category,comparison_blocks,serialized_cells_per_block,mismatches_per_block,status_each_block
+Population flags,12,3048,0,MATCH
+Models and TTDE,12,928,0,MATCH
+adsl regenerated summary,12,1136,0,MATCH
+adqsnpix regenerated summary,12,6048,0,MATCH
+adlbc regenerated summary,12,51840,0,MATCH
+adlbh regenerated summary,12,43008,0,MATCH
+advs regenerated summary,12,12474,0,MATCH

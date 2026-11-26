@@ -1,0 +1,9 @@
+scenario,track,pathway,predicate_flags,review_episodes,mutated_records_captured,unresolved_identity_flags,critical_injected,critical_captured,critical_missed
+development,reference_replication,A,50505,30785,87,139,72,57,15
+development,reference_replication,B,20862,20274,77,139,72,57,15
+development,sap_first_sensitivity,A,50505,30785,87,151,72,57,15
+development,sap_first_sensitivity,B,20862,20274,77,151,72,57,15
+held_out,reference_replication,A,50515,30800,134,142,108,91,17
+held_out,reference_replication,B,20872,20288,119,142,108,91,17
+held_out,sap_first_sensitivity,A,50515,30800,134,148,108,91,17
+held_out,sap_first_sensitivity,B,20872,20288,119,148,108,91,17

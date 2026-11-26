@@ -1,0 +1,33 @@
+scenario,family,critical_designated,injected_per_path,A_captured,B_captured,A_oracle_corrected,B_oracle_corrected
+development,Planned arm code,true,8,8,8,8,8
+development,Actual arm code,true,8,8,8,8,8
+development,Baseline assessment date,true,8,8,8,8,8
+development,Baseline ADAS item score,true,8,8,8,8,8
+development,Disposition code,true,8,8,8,8,8
+development,Disposition date,true,8,1,1,1,1
+development,AE onset before exposure,true,8,0,0,0,0
+development,Exposure interval reversed,true,8,8,8,8,8
+development,Marked hepatic abnormality,true,8,8,8,8,8
+development,Vital clock metadata,false,8,6,6,6,6
+development,Vital location metadata,false,8,8,8,8,8
+development,Vital position metadata,false,8,8,6,8,6
+development,Historical partial date,false,8,0,0,0,0
+development,Routine OTC route,false,8,0,0,0,0
+development,Routine OTC dose,false,8,0,0,0,0
+development,SC category text,false,8,8,0,8,0
+held_out,Planned arm code,true,12,12,12,12,12
+held_out,Actual arm code,true,12,12,12,12,12
+held_out,Baseline assessment date,true,12,12,12,12,12
+held_out,Baseline ADAS item score,true,12,12,12,12,12
+held_out,Disposition code,true,12,12,12,12,12
+held_out,Disposition date,true,12,7,7,7,7
+held_out,AE onset before exposure,true,12,0,0,0,0
+held_out,Exposure interval reversed,true,12,12,12,12,12
+held_out,Marked hepatic abnormality,true,12,12,12,12,12
+held_out,Vital clock metadata,false,12,7,7,7,7
+held_out,Vital location metadata,false,12,12,12,12,12
+held_out,Vital position metadata,false,12,12,9,12,9
+held_out,Historical partial date,false,12,0,0,0,0
+held_out,Routine OTC route,false,12,0,0,0,0
+held_out,Routine OTC dose,false,12,0,0,0,0
+held_out,SC category text,false,12,12,0,12,0
